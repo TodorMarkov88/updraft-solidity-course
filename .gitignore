@@ -5,7 +5,6 @@ foundry*/
 remix*/
 html*/
 .previously_installed_extensions.txt
-
 nfts-foundry-course/
 foundry-*/
 remix*/
@@ -17,3 +16,5 @@ brownie-contracts-nfts/
 tweet.md
 nfts-zksync-foundry/ 
 nfts-zksync-hardhat/
+.deps
+.states
